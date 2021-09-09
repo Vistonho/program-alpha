@@ -4,8 +4,6 @@
 
 </head>
 <body>
-
-
 <header>
 	<div class="logo">
 		<img src="images/Logo.png" class="logo-img">
