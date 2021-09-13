@@ -1,16 +1,15 @@
 <!DOCTYPE>
 <head>
-	<link rel="stylesheet" href="master.css">
-	<meta name="yandex-verification" content="8094e55f043e248d" />
+	<link rel="stylesheet" href="master.css"> <!-- Связь с файлом CSS -->
 </head>
 <body>
 <header>
-	<div class="logo">
-		<img src="images/Logo.png" class="logo-img">
-		<span class="logo-title">Lebensquelle</span>
+	<div class="logo"> <!-- Блок с логотипом -->
+		<img src="images/Logo.png" class="logo-img"> <!-- импорт логотипа -->
+		<span class="logo-title">Lebensquelle</span> <!-- Название -->
 	</div>
 
-	<div class="hor-menu">
+	<div class="hor-menu"> <!-- Меню сайта -->
 	<ul>
  <li><a href="">Главная</a></li>
  <li><a href="">Блог</a></li>
@@ -21,10 +20,10 @@
 </header>
 
 <div class="wrapper">
-	<div class="content">
-		<div class="part">
-			<img class="img" src="images/olimpicfunnygames.jpg" alt="Олимпийские кольца">
-				<div class="po">
+	<div class="content"> <!-- Блок с частями -->
+		<div class="part"> <!-- Блок с тексом и картинками -->
+			<img class="img" src="images/olimpicfunnygames.jpg" alt="Олимпийские кольца"> <!-- Картинка  -->
+				<div class="po"> <!-- Текст -->
 					<h1 class="data">19.04.2016</h1>
 					<h2 class="zag">Необычные виды спорта на Олимпийских Играх</h2>
 					<p class="text">В апреле 1896 года в Афинах прошли первые Олимпийские игры современности.
@@ -33,9 +32,9 @@
 		необычные дисциплины.</p>
 			</div>
 		</div>
-		<div class="part">
-			<img class="img" src="images/limaargentinad.jpg" alt="Незасчитанный гол">
-				<div class="po">
+		<div class="part"> <!-- Блок с тексом и картинками -->
+			<img class="img" src="images/limaargentinad.jpg" alt="Незасчитанный гол"> <!-- Картинка  -->
+				<div class="po"> <!-- Текст -->
 					<h1 class="data">10.04.2016</h1>
 					<h2 class="zag">Как незасчитанный гол унес 318 жизней</h2>
 					<p class="text">Беспорядки на трибунах стали, к сожалению, обычным явлением в футболе.
@@ -44,9 +43,9 @@
 мая 1964 года. Причиной гибели сотен болельщиков стал всего-навсего…</p>
 			</div>
 		</div>
-		<div class="part">
-			<img class="img" src="images/kurs-rublya.jpg" alt="Курс рубля">
-				<div class="po">
+		<div class="part"> <!-- Блок с тексом и картинками -->
+			<img class="img" src="images/kurs-rublya.jpg" alt="Курс рубля"> <!-- Картинка  -->
+				<div class="po"> <!-- Текст -->
 					<h1 class="data">05.04.2016</h1>
 					<h2 class="zag">Каким был курс рубля 100 лет назад</h2>
 					<p class="text">Узнать курс современного российского рубля совсем не сложно, эти сведения
@@ -56,9 +55,9 @@
 стабильных валют мира.</p>
 			</div>
 		</div>
-		<div class="part">
-			<img class="img" src="images/stabbs.jpg" alt="Кот-мэр">
-				<div class="po">
+		<div class="part"> <!-- Блок с тексом и картинками -->
+			<img class="img" src="images/stabbs.jpg" alt="Кот-мэр"> <!-- Картинка  -->
+				<div class="po"> <!-- Текст -->
 					<h1 class="data">01.04.2016</h1>
 					<h2 class="zag">Как кот стал мэром города</h2>
 					<p class="text">Однажды, некая Лори Стек, владелица магазина в небольшом городке Талкитна,
@@ -68,9 +67,9 @@
 любимцем покупателей, обладая веселым и добродушным нравом.</p>
 			</div>
 		</div>
-		<div class="part">
-			<img class="img" src="images/novogodniy-stol.jpg" alt="Новогодний стол">
-				<div class="po">
+		<div class="part"> <!-- Блок с тексом и картинками -->
+			<img class="img" src="images/novogodniy-stol.jpg" alt="Новогодний стол"> <!-- Картинка  -->
+				<div class="po"> <!-- Текст -->
 					<h1 class="data">30.03.2016</h1>
 					<h2 class="zag">Что едят на Новый год в разных странах</h2>
 					<p class="text">Так получилось, что главными украшениями новогоднего стола в России
