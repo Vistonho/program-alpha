@@ -1,7 +1,7 @@
 <!DOCTYPE>
 <head>
 	<link rel="stylesheet" href="master.css">
-
+	<meta name="yandex-verification" content="8094e55f043e248d" />
 </head>
 <body>
 <header>
